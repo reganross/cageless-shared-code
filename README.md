@@ -4,7 +4,5 @@ Shared contracts between **cageless-client** and **cageless-server**: network me
 
 ## Related repositories
 
-- [cageless-client](https://github.com/REPLACE_ORG_USER/cageless-client)
-- [cageless-server](https://github.com/REPLACE_ORG_USER/cageless-server)
-
-Replace `REPLACE_ORG_USER` with your GitHub user or organization name after the remotes are created.
+- [cageless-client](https://github.com/reganross/cageless-client)
+- [cageless-server](https://github.com/reganross/cageless-server)
